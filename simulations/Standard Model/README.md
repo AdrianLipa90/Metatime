@@ -1,4 +1,4 @@
-# Toy Model F_ij Generator for 12 Fermions (S²)
+# Simulation 1 - Toy Model F_ij Generator for 12 Fermions (S²)
 
 This repository contains a Python implementation to compute and analyze **pairwise topological factors F_ij** for the 12 Standard Model fermions in a simple toy model based on a Kähler sphere (S²). It includes directional and symmetric variants of the F matrix and provides basic statistical and visualization outputs.
 
